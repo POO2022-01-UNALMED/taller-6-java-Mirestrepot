@@ -41,3 +41,11 @@ public class Fabricante {
 	public void setContador() {
 		contador++;
 	}
+
+	public static Fabricante fabricaMayorVentas() {
+		Fabricante max = fabricantes.get(0);
+
+	}
+	
+	
+}
